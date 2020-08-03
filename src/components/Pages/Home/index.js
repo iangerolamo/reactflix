@@ -14,7 +14,7 @@ function Home() {
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-          'Conheça um pouco mais sobre a nova ferramenta de CI/CD feita pelo GitHub'
+          'Busca qualidade? Sinta a experiência de um perito'
         }
       />
 

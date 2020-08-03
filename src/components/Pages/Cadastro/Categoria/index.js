@@ -31,7 +31,7 @@ export default function CadastroCategoria() {
   useEffect(() => {
     const URL_DB = window.location.hostname.includes('localhost')
       ? 'http://localhost:3333/categorias'
-      : 'https://english-flix.herokuapp.com/categorias';
+      : 'https://gerolamo-flix.herokuapp.com/categorias';
 
     fetch(URL_DB).then(async (serverDados) => {
       const dados = await serverDados.json();

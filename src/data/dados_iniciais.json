@@ -1,7 +1,7 @@
 {
     "categorias": [
       {
-        "titulo": "Front End",
+        "titulo": "TOP 10 FILMES",
         "link": "https://www.alura.com.br/formacao-front-end",
         "cor": "#6BD1FF",
         "link_extra": {
@@ -11,33 +11,37 @@
         },
         "videos": [
           {
-            "titulo": "GitHub Actions: CI/CD para desenvolvedores",
-            "url": "https://www.youtube.com/watch?v=E1OunoCyuhY&t=1444s"
+            "titulo": "Indicação da semana do seleto grupo dos peritos da película",
+            "url": "https://www.youtube.com/watch?v=AFiiQ_aCQzs"
           },
           {
-            "titulo": "Iniciando com React",
-            "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q&t=6s"
+            "titulo": "Pulp Fiction",
+            "url": "https://www.youtube.com/watch?v=KUlIaSTYbuo"
           },
           {
-            "titulo": "React em 9 minutos",
-            "url": "https://www.youtube.com/watch?v=SQsR0KA-oew"
+            "titulo": "O Poderoso Chefão",
+            "url": "https://www.youtube.com/watch?v=oha0ZHd3Fz4"
           },
           {
-            "titulo": "React Basics",
-            "url": "https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS"
+            "titulo": "Batman: O cavaleiro das Trevas",
+            "url": "https://www.youtube.com/watch?v=LpdTsygor0A"
           },
           {
-            "titulo": "Menu Dropdown React",
-            "url": "https://www.youtube.com/watch?v=IF6k0uZuypA"
+            "titulo": "O Senhor dos Anéis: O retorno do Rei",
+            "url": "https://www.youtube.com/watch?v=bRywrZaOFEg"
           },
           {
-            "titulo": "Upload de arquivos com React",
-            "url": "https://www.youtube.com/watch?v=G5UZmvkLWSQ"
+            "titulo": "Pulp Fiction",
+            "url": "https://www.youtube.com/watch?v=_wcbqMUNBF4"
           },
           {
             "titulo": "Spotify UI",
-            "url": "https://www.youtube.com/watch?v=rkZEWuMRY28"
-          }
+            "url": "https://www.youtube.com/watch?v=VmqoQKneP34"
+          },
+          {
+            "titulo": "Base para aprender os frameworks",
+            "url": "https://www.youtube.com/watch?v=dGurgPE-wb8"
+          }        
         ]
       },
       {
@@ -55,23 +59,23 @@
           },
           {
             "titulo": "Java Microsservices",
-            "url": "https://www.youtube.com/watch?v=7TITPEwY3uU&list=PLBBog2r6uMCResrR48HziFtNx4-BDOmU0&index=5"
+            "url": "https://www.youtube.com/watch?v=YhXoSNOJEHg"
           },
           {
             "titulo": "Java em 2020",
-            "url": "https://www.youtube.com/watch?v=fMdVW91QOus&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=265&t=0s"
+            "url": "https://www.youtube.com/watch?v=A3nmAPylJDQ"
           },
           {
             "titulo": "Spring Boot Microsservices with DevDojo",
-            "url": "https://www.youtube.com/watch?v=pKkZ3KFLPQ8&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=29&t=0s"
+            "url": "https://www.youtube.com/watch?v=4SQTfSTi6G0"
           },
           {
             "titulo": "JAVA - Código fonte",
-            "url": "https://www.youtube.com/watch?v=sZAxLRMxEUo"
+            "url": "https://www.youtube.com/watch?v=VS4yfD1hliI"
           },
           {
             "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+            "url": "https://www.youtube.com/watch?v=4NUK3QtPcBM"
           }
         ]
       },
@@ -90,23 +94,23 @@
           },
           {
             "titulo": "3 jogos de celular que faturam mais de 10 mil reais por mês",
-            "url": "https://www.youtube.com/watch?v=LYNmZMBe4xA&t=52s"
+            "url": "https://www.youtube.com/watch?v=bL9r5iv5oeY"
           },
           {
             "titulo": "3 dicas de empreendedorismo para Devs",
-            "url": "https://www.youtube.com/watch?v=jQ5DFv_W3QM&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=82&t=0s"
+            "url": "https://www.youtube.com/watch?v=g70jeiyToeY"
           },
           {
             "titulo": "Inglês para programadores",
-            "url": "https://www.youtube.com/watch?v=xcxz_PmpZ8w"
+            "url": "https://www.youtube.com/watch?v=NlH4n5FRq1c"
           },
           {
             "titulo": "Programador referência",
-            "url": "https://www.youtube.com/watch?v=VxmEauPKjQo&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=138&t=0s"
+            "url": "https://www.youtube.com/watch?v=XITOoXrFzjA"
           },
           {
             "titulo": "Renda passiva com apps",
-            "url": "https://www.youtube.com/watch?v=OM5p7AZVJy0&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=79&t=0s"
+            "url": "https://www.youtube.com/watch?v=BDYZ4D6R3lY"
           }
         ]
       },
