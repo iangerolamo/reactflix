@@ -1,193 +1,236 @@
 {
-  "categorias": [
-    {
-      "titulo": "TOP 10 FILMES",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+    "categorias": [
+      {
+        "titulo": "Front End",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Ian Gerolamo",
+          "url": "https://github.com/iangerolamo",
+          "target": "_blank"
+        },
+        "videos": [
+          {
+            "titulo": "GitHub Actions: CI/CD para desenvolvedores",
+            "url": "https://www.youtube.com/watch?v=E1OunoCyuhY&t=1444s"
+          },
+          {
+            "titulo": "Iniciando com React",
+            "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q&t=6s"
+          },
+          {
+            "titulo": "React em 9 minutos",
+            "url": "https://www.youtube.com/watch?v=SQsR0KA-oew"
+          },
+          {
+            "titulo": "React Basics",
+            "url": "https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS"
+          },
+          {
+            "titulo": "Menu Dropdown React",
+            "url": "https://www.youtube.com/watch?v=IF6k0uZuypA"
+          },
+          {
+            "titulo": "Upload de arquivos com React",
+            "url": "https://www.youtube.com/watch?v=G5UZmvkLWSQ"
+          },
+          {
+            "titulo": "Spotify UI",
+            "url": "https://www.youtube.com/watch?v=rkZEWuMRY28"
+          }
+        ]
       },
-      "videos": [
-        {
-          "titulo": "Indicação da semana do seleto grupo dos peritos da película",
-          "url": "https://www.youtube.com/watch?v=AFiiQ_aCQzs"
+      {
+        "titulo": "Back End",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Vítor Severo Profile",
+          "url": "https://github.com/vitorgsevero",
+          "target": "_blank"
         },
-        {
-          "titulo": "Pulp Fiction",
-          "url": "https://www.youtube.com/watch?v=KUlIaSTYbuo"
-        },
-        {
-          "titulo": "O Poderoso Chefão",
-          "url": "https://www.youtube.com/watch?v=oha0ZHd3Fz4"
-        },
-        {
-          "titulo": "Batman: O cavaleiro das Trevas",
-          "url": "https://www.youtube.com/watch?v=LpdTsygor0A"
-        },
-        {
-          "titulo": "O Senhor dos Anéis: O retorno do Rei",
-          "url": "https://www.youtube.com/watch?v=bRywrZaOFEg"
-        },
-        {
-          "titulo": "Pulp Fiction",
-          "url": "https://www.youtube.com/watch?v=_wcbqMUNBF4"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=VmqoQKneP34"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=dGurgPE-wb8"
-        }        
-      ]
-    },
-    {
-      "titulo": "Lançamentos",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "videos": [
+          {
+            "titulo": "",
+            "url": ""
+          },
+          {
+            "titulo": "Java Microsservices",
+            "url": "https://www.youtube.com/watch?v=7TITPEwY3uU&list=PLBBog2r6uMCResrR48HziFtNx4-BDOmU0&index=5"
+          },
+          {
+            "titulo": "Java em 2020",
+            "url": "https://www.youtube.com/watch?v=fMdVW91QOus&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=265&t=0s"
+          },
+          {
+            "titulo": "Spring Boot Microsservices with DevDojo",
+            "url": "https://www.youtube.com/watch?v=pKkZ3KFLPQ8&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=29&t=0s"
+          },
+          {
+            "titulo": "JAVA - Código fonte",
+            "url": "https://www.youtube.com/watch?v=sZAxLRMxEUo"
+          },
+          {
+            "titulo": "API: Dicionário do Programador",
+            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          }
+        ]
       },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=YhXoSNOJEHg"
+      {
+        "titulo": "Dicas para o Dev",
+        "cor": "#414141",
+        "link_extra": {
+          "text": "Vítor Severo Profile",
+          "url": "https://github.com/vitorgsevero",
+          "target": "_blank"
         },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=A3nmAPylJDQ"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=4SQTfSTi6G0"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=VS4yfD1hliI"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=4NUK3QtPcBM"
-        }
-      ]
-    },
-    {
-      "titulo": "Drama",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "videos": [
+          {
+            "titulo": "",
+            "url": ""
+          },
+          {
+            "titulo": "3 jogos de celular que faturam mais de 10 mil reais por mês",
+            "url": "https://www.youtube.com/watch?v=LYNmZMBe4xA&t=52s"
+          },
+          {
+            "titulo": "3 dicas de empreendedorismo para Devs",
+            "url": "https://www.youtube.com/watch?v=jQ5DFv_W3QM&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=82&t=0s"
+          },
+          {
+            "titulo": "Inglês para programadores",
+            "url": "https://www.youtube.com/watch?v=xcxz_PmpZ8w"
+          },
+          {
+            "titulo": "Programador referência",
+            "url": "https://www.youtube.com/watch?v=VxmEauPKjQo&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=138&t=0s"
+          },
+          {
+            "titulo": "Renda passiva com apps",
+            "url": "https://www.youtube.com/watch?v=OM5p7AZVJy0&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=79&t=0s"
+          }
+        ]
       },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=bL9r5iv5oeY"
+      {
+        "titulo": "Data Science e Inteligência Artificial",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "Vítor Severo Profile",
+          "url": "https://github.com/vitorgsevero",
+          "target": "_blank"
         },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=g70jeiyToeY"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=NlH4n5FRq1c"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=XITOoXrFzjA"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=BDYZ4D6R3lY"
-        }
-      ]
-    },
-    {
-      "titulo": "Ficção",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=h7TacYgd0WQ"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=55mOpWcuqek"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=HG2a2Prk71U"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=i1WjEetMWy4"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=XV5X6YL0cJk"
-        }
-      ]
-    },
-    {
-      "titulo": "Suspense",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "videos": [
+          {
+            "titulo": "Teste de Turing",
+            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          },
+          {
+            "titulo": "OpenAI vai matar os programadores?",
+            "url": "https://www.youtube.com/watch?v=G4hcT6fUoBw"
+          },
+          {
+            "titulo": "O que é Data Science?",
+            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          },
+          {
+            "titulo": "Melhor forma de aprender Python",
+            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          },
+          {
+            "titulo": "AI x Devs",
+            "url": "https://www.youtube.com/watch?v=-uUTrEIeOHo"
+          },
+          {
+            "titulo": "AI Deschamps",
+            "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+          }
+        ]
       },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=iVy1YCMF__g"
+      {
+        "titulo": "Jogos",
+        "cor": "red",
+        "link_extra": {
+          "text": "Vítor Severo Profile",
+          "url": "https://github.com/vitorgsevero",
+          "target": "_blank"
         },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=A7IfjbkQrpk"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=KS9F96fv308"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=cdz5KJ07RMY"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=cgO5jVJPrQE"
-        }
-      ]
-    },
-    {
-      "titulo": "Documentários",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "videos": [
+          {
+            "titulo": "Final Fantasy 7",
+            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          },
+          {
+            "titulo": "Batman Arkham Asylum - Full Game",
+            "url": "https://www.youtube.com/watch?v=yj4Qw6PMlvk"
+          },
+          {
+            "titulo": "God of War 4",
+            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          },
+          {
+            "titulo": "The Witcher III",
+            "url": "https://www.youtube.com/watch?v=TwIB-OdXMCY"
+          },
+          {
+            "titulo": "Spiderman PS4",
+            "url": "https://www.youtube.com/watch?v=AL-Bn9h-K7k"
+          },
+          {
+            "titulo": "FIFA 19 - CR7",
+            "url": "https://www.youtube.com/watch?v=2kNTSXX1psU"
+          }
+        ]
       },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=CdSqFR5roi0"
+      {
+        "titulo": "Filmes",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Interestellar",
+            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          },
+          {
+            "titulo": "Gattaca",
+            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          },
+          {
+            "titulo": "A Chegada",
+            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          },
+          {
+            "titulo": "Feitiço do Tempo",
+            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          }
+        ]
+      },
+      {
+        "titulo": "Aprendendo a aprender tecnologia",
+        "cor": "#6b5be2",
+        "link_extra": {
+          "text": "Curso sobre aprendizado na Alura",
+          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
         },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=pHUM9ARbhxE"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=z4aaChFo-6k"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=kygnJmGg4r0"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=NP-ftzQgJLw"
-        }
-      ]
-    }
-  ]
-}
+        "videos": [
+          {
+            "titulo": "Como estudar melhor?",
+            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          },
+          {
+            "titulo": "Faculdade",
+            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          },
+          {
+            "titulo": "Frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          },
+          {
+            "titulo": "A mágica do Aprendizado",
+            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          },
+          {
+            "titulo": "Como aprender a programar?",
+            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          }
+        ]
+      }
+    ]
+  }
